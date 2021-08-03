@@ -1,0 +1,13 @@
+C:\Users\Roman\source\repos\IziPiziString\IziPiziString\bin\Debug\netcoreapp3.1\IziPiziString.exe
+C:\Users\Roman\source\repos\IziPiziString\IziPiziString\bin\Debug\netcoreapp3.1\IziPiziString.deps.json
+C:\Users\Roman\source\repos\IziPiziString\IziPiziString\bin\Debug\netcoreapp3.1\IziPiziString.runtimeconfig.json
+C:\Users\Roman\source\repos\IziPiziString\IziPiziString\bin\Debug\netcoreapp3.1\IziPiziString.runtimeconfig.dev.json
+C:\Users\Roman\source\repos\IziPiziString\IziPiziString\bin\Debug\netcoreapp3.1\IziPiziString.dll
+C:\Users\Roman\source\repos\IziPiziString\IziPiziString\bin\Debug\netcoreapp3.1\IziPiziString.pdb
+C:\Users\Roman\source\repos\IziPiziString\IziPiziString\obj\Debug\netcoreapp3.1\IziPiziString.csprojAssemblyReference.cache
+C:\Users\Roman\source\repos\IziPiziString\IziPiziString\obj\Debug\netcoreapp3.1\IziPiziString.AssemblyInfoInputs.cache
+C:\Users\Roman\source\repos\IziPiziString\IziPiziString\obj\Debug\netcoreapp3.1\IziPiziString.AssemblyInfo.cs
+C:\Users\Roman\source\repos\IziPiziString\IziPiziString\obj\Debug\netcoreapp3.1\IziPiziString.csproj.CoreCompileInputs.cache
+C:\Users\Roman\source\repos\IziPiziString\IziPiziString\obj\Debug\netcoreapp3.1\IziPiziString.dll
+C:\Users\Roman\source\repos\IziPiziString\IziPiziString\obj\Debug\netcoreapp3.1\IziPiziString.pdb
+C:\Users\Roman\source\repos\IziPiziString\IziPiziString\obj\Debug\netcoreapp3.1\IziPiziString.genruntimeconfig.cache
